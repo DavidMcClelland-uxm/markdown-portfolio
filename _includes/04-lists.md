@@ -6,6 +6,6 @@
 4. Toast
 
 * People
-* Love
-* Dogs
+* Love :heart:
+* Dogs :dog:
   * Small dogs
