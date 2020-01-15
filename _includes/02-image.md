@@ -1,1 +1,1 @@
-Replace this with an image, like your photo. Ensure you include some alt-text.
+![Image of a usability test](http://uxm.nidirect.gov.uk/images/usabilitylabs-lowres.png)
