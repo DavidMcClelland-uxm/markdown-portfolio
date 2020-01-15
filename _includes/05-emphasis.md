@@ -4,7 +4,7 @@ sometimes I wonder if I could just `<addr>` home.
 
 ### Table of results
 First name|Last name|Score
--|-|-
+--|--|--
 David|McClelland|80
 Peter|McClelland|87
 Mark|McClay|90
